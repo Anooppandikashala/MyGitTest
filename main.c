@@ -7,6 +7,8 @@ typedef struct {
 } SpaceObject;
 
 int main(void) {
+
+    // new comment in main
     // Initialization
     const int screenWidth = 800;
     const int screenHeight = 450;
